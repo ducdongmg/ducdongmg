@@ -1,9 +1,9 @@
 ### 
 <div align="center">
-    <a href="https://dcm.clgt.vn" target="_blank">
+    <a href="https://ducdongmg.github.io" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducdongmg&count_private=true&show_icons=true&theme=dracula">
     </a>
-    <a href="ducdongmg@github.io" target="_blank">
+    <a href="https://ducdongmg.github.io" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducdongmg&langs_count=3&hide=html&layout=compact&theme=dracula">
     </a>
 </div>
