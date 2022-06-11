@@ -1,4 +1,18 @@
+### 
+<div align="center">
+    <a href="https://dcm.clgt.vn" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducdongmg&count_private=true&show_icons=true&theme=dracula">
+    </a>
+    <a href="https://dcm.clgt.vn" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducdongmg&langs_count=3&hide=html&layout=compact&theme=dracula">
+    </a>
+</div>
+
 ### Hi there 👋
+
+I am dongnguyen. A developer.
+- [Email](mailto://ducdong.mg@gmail.com)
+
 
 <!--
 **ducdongmg/ducdongmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
