@@ -1,17 +1,7 @@
-### 
-<div align="center">
-    <a href="https://ducdongmg.github.io" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducdongmg&count_private=true&show_icons=true&theme=dracula">
-    </a>
-    <a href="https://ducdongmg.github.io" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducdongmg&langs_count=3&hide=html&layout=compact&theme=dracula">
-    </a>
-</div>
 
 ### Hi there 👋
 
-I am dongnguyen. A developer.
-- [Email](mailto://ducdong.mg@gmail.com)
+I'm a web developer. You can email me at [gmail](mailto://ducdong.mg@gmail.com)
 
 
 <!--
