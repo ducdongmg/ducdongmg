@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm a web developer. You can email me at [gmail](mailto://ducdong.mg@gmail.com)
+I'm a web developer living at Osaka. You can email me at [gmail](mailto://ducdong.mg@gmail.com)
 
 
 <!--
